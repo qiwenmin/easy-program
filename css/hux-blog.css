@@ -1,3 +1,8 @@
+/*!
+ * Hux Blog v1.0.0 (http://huxpro.github.io)
+ * Copyright 2016 Hux
+ */
+
 @media (min-width: 1200px) {
   .post-container,
   .sidebar-container {
@@ -90,9 +95,6 @@ a:focus {
 a img:hover,
 a img:focus {
   cursor: zoom-in;
-}
-article {
-  overflow-x: hidden;
 }
 blockquote {
   color: #808080;
