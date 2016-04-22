@@ -5,8 +5,8 @@ header-img: img/home-bg-o.jpg
 email: qiwenmin@gmail.com
 description: "轻松编程 快乐无限"
 keyword: "编程 程序 教程 programming"
-url: "http://www.easy-program.org"              # your host, for absolute URL
-baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
+url: "http://qiwenmin.github.io/easy-program"  # your host, for absolute URL
+baseurl: "/easy-program"  # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
@@ -69,7 +69,7 @@ ga_domain: www.easy-program.org
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "写写画画，拍拍照片。"
-sidebar-avatar: /img/avatar-dumm.jpg  # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /easy-program/img/avatar-dumm.jpg  # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
