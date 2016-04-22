@@ -80,12 +80,12 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 # Friends
-#friends: [
-#    {
-#        title: "Hux Blog",
-#        href: "http://huangxuan.me"
-#    },{
-#        title: "It helps SEO",
-#        href: "#"
-#    }
-#]
+friends: [
+    {
+        title: "Show My Screen",
+        href: "https://www.show-my-screen.com"
+    }, {
+        title: "Viathink",
+        href: "http://www.viathink.com"
+    }
+]
