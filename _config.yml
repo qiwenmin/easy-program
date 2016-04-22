@@ -47,7 +47,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: easyprogram
+# disqus_username: easyprogram
 
 # Duoshuo settings
 # duoshuo_username: easyprogram
